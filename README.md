@@ -1,4 +1,2 @@
-#I will be working on a Library Management System, this will be connected to the mysql database.
-#Users will be able to look up books and use functions like Check out & Check in.
-#This will be using concurrency
-#Add to cart function
+#I will be working on a Multiplayer Game, this will be created in Unity using the Photon Pun 2 Services.
+#Users will be able to play against other players in the game and be able to game rooms.

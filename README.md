@@ -6,10 +6,10 @@ The main aim of this work is to develop a distributed system, in this case a Fir
 
 # Requirements
 * The game should allow it’s users to issue an interface through which the users of the game can enter the home screen when starting the game.
-*The game should allow it’s users to add their player name.
-*The game should allow it’s users to build a game room to which the game will be played in.
-*The game should allow it’s users to find a room which has been created.
-*The game should allow it’s users to exit the room once the game has been created.
+* The game should allow it’s users to add their player name.
+* The game should allow it’s users to build a game room to which the game will be played in.
+* The game should allow it’s users to find a room which has been created.
+* The game should allow it’s users to exit the room once the game has been created.
 *	The game should allow it’s users to enter the room once the game has been created.
 *	The game should allow it’s users to be the next host of the game once the main host leaves the game.
 *	The game should allow it’s users  to see their names when starting the game.

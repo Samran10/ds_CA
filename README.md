@@ -5,7 +5,7 @@
 The main aim of this work is to develop a distributed system, in this case a First Person Shooter 3D Game utilizing the Unity and Photon (Pun) Engines. The purpose is to glance at how a First Person Shooter game can be developed into a functionable distributed system. Carrying all this forward, I was able to develop the 3D game environment to control different types of components, C# was utilised for handling the scripting in my system.
 
 # Requirements
-"*"The game should allow it’s users to issue an interface through which the users of the game can enter the home screen when starting the game.
+* The game should allow it’s users to issue an interface through which the users of the game can enter the home screen when starting the game.
 *The game should allow it’s users to add their player name.
 *The game should allow it’s users to build a game room to which the game will be played in.
 o	The game should allow it’s users to find a room which has been created.

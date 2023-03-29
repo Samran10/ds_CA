@@ -1,8 +1,5 @@
-#I will be working on a 3D Multiplayer Game, this will be created in Unity using the Photon Pun 2 Services.
-#Users will be able to play against other people across the network in the game and be able to join game rooms if they want to play with friends.
-
 # Introduction
-The main aim of this work is to develop a distributed system, in this case a First Person Shooter 3D Game utilizing the Unity and Photon (Pun) Engines. The purpose is to glance at how a First Person Shooter game can be developed into a functionable distributed system. Carrying all this forward, I was able to develop the 3D game environment to control different types of components, C# was utilised for handling the scripting in my system.
+The main aim of this work is to develop a distributed system, in this case a First Person Shooter 3D Game utilizing the Unity and Photon (Pun) Engines. The purpose is to glance at how a First Person Shooter game can be developed into a functionable distributed system. Users will be able to play against other people across the network in the game and be able to join game rooms if they want to play with friends. Carrying all this forward, I was able to develop the 3D game environment to control different types of components, C# was utilised for handling the scripting in my system.
 
 # Requirements
 * The game should allow it’s users to issue an interface through which the users of the game can enter the home screen when starting the game.

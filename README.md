@@ -2,7 +2,7 @@
 |Utilized Engines & Language|
 |-------------|
 Unity
-Photon Pun 2
+Photon Pun 2 / Realtime
 C#
 
 # Unity
@@ -10,7 +10,11 @@ C#
 # Photon
 Photon Engine is simply a game engine which spends significant time in multiplayer game expansion. It's a progression of items, software, innovation, and systems networking parts which leads to extraordinary speed, execution, and more to online play.
 
-With a tremendous network frequently adding up around 20,000,000 internt based online clients, the Photon Engine is incredible for multiplayer game expansion. Photon Engine functions admirably with Unity, as well, manufacturing all the strategies in which to produce games to a much more extensive way. 
+With a tremendous network frequently adding up around 20,000,000 internt based online clients, the Photon Engine is incredible for multiplayer game expansion. Photon Engine functions admirably with Unity, as well, manufacturing all the strategies in which to produce games to a much more extensive way.
+
+Realtime is a networking administration engine which operates fundamentally for fixing issues with lower latency games. It's cross stage, implying that Realtime can work for games along these lines such as the likes of Fornite. The Low Latency influences web based games, and Photon Realrtime means to annihilate all the normal speedy internet based play isses. Utilizing the state of gaming innovation to end match issues. Realtime offers bits of source code right on its site ofr inquisitive clients and is a convincing piece of a programming software, utilizing a self facilitated server.
+
+Pun basically relates to the (Photon Unity Networking). It is literally a path for game designers and players to handly incorporate the Solidarity structure with the Photon services. Doing this makes the components handle the for rapid server speed, lagging free game rooms and a firm stable network. In comparison to Realtime, Pun is a fabulous and fast method for enhancing your servers, game rooms, and other functionalities that permit the games to flawlessly run.
 
 # Abstract
 The main aim of this work is to develop a distributed system, in this case a First Person Shooter 3D Game utilizing the Unity and Photon (Pun) Engines. The purpose is to glance at how a First Person Shooter game can be developed into a functionable distributed system. Carrying all this forward, I was able to develop the 3D game environment to control different types of components, C# was utilised for handling the scripting in my system.

@@ -5,6 +5,13 @@ Unity
 Photon Pun 2
 C#
 
+# Unity
+
+# Photon
+Photon Engine is simply a game engine which spends significant time in multiplayer game expansion. It's a progression of items, software, innovation, and systems networking parts which leads to extraordinary speed, execution, and more to online play.
+
+With a tremendous network frequently adding up around 20,000,000 internt based online clients, the Photon Engine is incredible for multiplayer game expansion. Photon Engine functions admirably with Unity, as well, manufacturing all the strategies in which to produce games to a much more extensive way. 
+
 # Abstract
 The main aim of this work is to develop a distributed system, in this case a First Person Shooter 3D Game utilizing the Unity and Photon (Pun) Engines. The purpose is to glance at how a First Person Shooter game can be developed into a functionable distributed system. Carrying all this forward, I was able to develop the 3D game environment to control different types of components, C# was utilised for handling the scripting in my system.
   

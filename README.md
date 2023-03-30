@@ -26,6 +26,9 @@ The main aim of this work is to develop a distributed system, in this case a Fir
 # Introduction
 The main aim of this work is to develop a distributed system, in this case a First Person Shooter 3D Game utilizing the Unity and Photon (Pun) Engines. The purpose is to glance at how a First Person Shooter game can be developed into a functionable distributed system. Users will be able to play against other people across the network in the game and be able to join game rooms if they want to play with friends. Carrying all this forward, I was able to develop the 3D game environment to control different types of components, C# was utilised for handling the scripting in my system.
 
+Game Development can be declared to be the main artwork of adding designs to develop a game in order to smooth the process of interactivity between every player for educational, entertainment and simulation motives. Game Development can certainly be the action of determining how a game should ought to be like. 
+As you may be aware that First Person Shooter (FPS) games are usually one of the most favoured game category as of today, it can even be considered a best seller nowadays. FPS games are certainly becoming favoured day by day, this is due to the creation of new technology. In a First Person Shooter game, a user plays the game in the first perspective, this relates to the fact that the user of the game controls a virtual game character that is situated in a 3D environment and also participates the game from an eye view of the game character.
+
 # Requirements
 * The game should allow it’s users to issue an interface through which the users of the game can enter the home screen when starting the game.
 * The game should allow it’s users to add their player name.
@@ -41,3 +44,6 @@ The main aim of this work is to develop a distributed system, in this case a Fir
 *	The game should allow its users to look at the status of their health bar when being shot.
 *	The game should allow it’s users to look at the their kills and deaths on the leader board once the game has been started.
 *	The game should allow it’s users to fall off the game map and then respawn. Falling of the map will account in a death stat on the leader board.
+
+# Design
+As you may be aware that this is a 3D Multiplayer Shooting Game (FPS). Users can play this game with their friends through the Photon server. Users will be able to entertain themselves and have fun with their friends when playing this online game.

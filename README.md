@@ -58,6 +58,8 @@ The development of my chosen system was a result of an issue of playing with oth
 *	Concurrency: System must definitely be capable of managing the simultaneous access and modification of data by multiple users or processes in an environment that is distributed.
 
 # Requirements
+In sequence to be able to acknowledge all the purposes of my system, these series of requirements will certainly be considered to be the functional criteria of my system.
+
 * The game should allow it’s users to issue an interface through which the users of the game can enter the home screen when starting the game.
 * The game should allow it’s users to add their player name.
 * The game should allow it’s users to build a game room to which the game will be played in.
@@ -109,7 +111,7 @@ Making a 3D Multiplayer Shooting Game (FPS) that works through a network for the
 
 *	Control: When running the game through a network, users can possess more command over the game, this includes personalizing settings & features according to the users requirements. When developing the game, the Photon (Pun) engine allows the developer to select which region you want the users to be from.
 
-#Evaluation
+# Evaluation
 The design of system which is distributed has various types of advantages in comparison to different designs. Photon is straightforwardly a scalable, low-latency & high fault tolerant distributed system which has the function to connect to multiple streams of huge data flowing constantly.
 
 *	Fault Tolerance: The distributed system that I have chosen is particularly created to control issues by dividing workloads over many servers.

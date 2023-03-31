@@ -4,15 +4,8 @@ Multiplayer Shooting Game is updated here (Repository): https://dev.azure.com/10
 # TECHNICAL SPECIFICATION
 |Utilized Engines & Language|
 |-------------|
-  Unity
-  Photon Pun 2 / Realtime
-  C#
-
-# TECHNICAL SPECIFICATION
-|Utilized Engines & Language|
-|-------------|
 	Unity
-	Photon Pun 2 / Realtime
+	Photon Pun 2/Realtime
 	C#  
 
 # Unity

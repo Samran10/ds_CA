@@ -1,5 +1,5 @@
 # Azure Dev-Ops Link
-Multiplayer Shooting Game is updated here: https://dev.azure.com/10538269/_git/Game
+Multiplayer Shooting Game is updated here (Repository): https://dev.azure.com/10538269/_git/Game
 
 # TECHNICAL SPECIFICATION
 |Utilized Engines & Language|

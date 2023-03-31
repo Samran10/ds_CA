@@ -80,23 +80,43 @@ As you may be aware that this is a 3D Multiplayer Shooting Game (FPS). Users can
 
 Home Screen of my built 3D Multiplayer Shooting Game (FPS). Consists of the following Find Room, Build Room, Exit Game & Playername (this is where the user will insert their name and this will be displayed to the other user when starting the game).
 
+![4](https://user-images.githubusercontent.com/78740991/228991945-af3d9b06-ecb4-4299-ae74-c4a010749312.png)
+
 When the user clicks the Build Room button from the Home Screen, it will bring them to a separate form where the user will need to enter the name of the room they wish to create and then click the Build Room to build that room.
+
+![5](https://user-images.githubusercontent.com/78740991/228991962-e3d60e6d-4718-4682-956f-2fe8fe737d45.png)
 
 This form pops up when the user clicks the Find Room button from the Home Screen, if any user created a room it will display in the Find Room section and the player names will be displayed too – whoever joined that specific room. The user will then have the option to start the game room or leave the room.
 
+![6](https://user-images.githubusercontent.com/78740991/228991972-088fb7f8-5feb-4cd0-b5d2-bfa7f37ed6c3.png)
+
 This map will open when the user starts the game. The users will spawn at a randomised place on the map.
+
+![7](https://user-images.githubusercontent.com/78740991/228991996-a5b6a530-df70-4ae7-8054-2b81b090458c.png)
 
 As you can see from the picture below, the player name is displayed above the capsule.
 
+![8](https://user-images.githubusercontent.com/78740991/228992007-4c12c097-36be-488f-975e-47b9fb46fa7e.png)
+
 This is the shotgun in the game. Users will be able to choose which gun they want to select.
+
+![9](https://user-images.githubusercontent.com/78740991/228992017-1fea268e-bdec-469f-a275-a6a858f47ab5.png)
 
 This is the handgun in the game. Users will be able to choose which gun they want to select.
 
+![10](https://user-images.githubusercontent.com/78740991/228992024-e029a0d4-8776-4b1d-9558-5f9b0913bb23.png)
+
 Health bar will reduce every time the same player gets struck by a bullet.
+
+![11](https://user-images.githubusercontent.com/78740991/228992034-f982f6f9-c52a-4e97-9ada-259a7346b12e.png)
 
 These are the bullets which will be shot from the gun. The bullet will have a timer of 15 seconds before they disappear.
 
+![12](https://user-images.githubusercontent.com/78740991/228992042-65d0d306-7f85-47f0-83cd-fbb35d8e4a91.png)
+
 Users will be able to see their stats on the leader board with both kills and deaths updated during the  gameplay.
+
+![13](https://user-images.githubusercontent.com/78740991/228992048-67a6555a-0349-423e-9161-29515329f6ee.jpg)
 
 # Analysis
 Making a 3D Multiplayer Shooting Game (FPS) that works through a network for the users of the game can seriously be crucial.

@@ -8,6 +8,13 @@ Multiplayer Shooting Game is updated here (Repository): https://dev.azure.com/10
   Photon Pun 2 / Realtime
   C#
 
+# TECHNICAL SPECIFICATION
+|Utilized Engines & Language|
+|-------------|
+	Unity
+	Photon Pun 2 / Realtime
+	C#  
+
 # Unity
 Unity is simply a cross stage game engine which was created by the Unity Technologies. Unity is utilised to prinicpally make games and reproductions for PC's, mobille device, and also consoles.
 
